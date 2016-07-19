@@ -9,4 +9,11 @@ email：miao@ricardo2001zg.moe
 
 知乎：
 https://www.zhihu.com/people/ricardo2001
+
+Twitter：
+https://twitter.com/Ricardo2001zg
+
+哔哩哔哩：
+http://live.bilibili.com/460398
+
 */
