@@ -1,4 +1,4 @@
-# RicsPractie
+# RicsPractice
 
 ~2013-2017,NOIP2017初赛28分退役。六年OI一场空。~
 
