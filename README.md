@@ -1,22 +1,15 @@
-# RicsPractice
+# RicsCodePractice
 
 ~2013-2017,NOIP2017初赛28分退役。六年OI一场空。~
 
-2022 又开始做题了，永远想象不到未来的样子。
+2022 又开始做题卷考研了，永远想象不到未来的样子。
 
-Ricardo2001zg的oi练习源码，使用或转载请保留出处。
-https://github.com/Ricardo2001ZG/oi
+Ricardo2001zg的代码练习源码，使用或转载请保留出处。
 
-此源码原则上仅限于oier交流使用，不限制任何使用方式。
+https://github.com/Ricardo2001ZG/RicsCodePractice
 
 Email:
 miao@ricardo2001zg.moe
 
 Blog:
-https://miao.ricardo2001zg.moe
-
-知乎:
-https://www.zhihu.com/people/ricardo2001
-
-Twitter:
-https://twitter.com/Ricardo2001zg
+https://miao.ricardo2001zg.com
