@@ -1,2 +1,5 @@
 *.exe
 *.o
+
+# VS code
+.vscode

@@ -13,6 +13,6 @@ int main()
     int nReadA, nReadB, nAnswer;
     std::cin >> nReadA >> nReadB;
     nAnswer = nReadA + nReadB;
-    std::cout << nAnswer;
+    std::cout << nAnswer << std::endl;
     return 0;
 }
